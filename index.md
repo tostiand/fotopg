@@ -99,7 +99,7 @@
         <div class="intro-text">
             <div class="intro-lead-in"> Benvenuti </div>
             <div class="intro-heading"> Cosa possiamo fare per voi </div>
-            <a href="#services" class="page-scroll btn btn-xl">Oggettistica</a>
+            <a href="#oggettistica" class="page-scroll btn btn-xl">Oggettistica</a>
         </div>
     </div>
 </header>
